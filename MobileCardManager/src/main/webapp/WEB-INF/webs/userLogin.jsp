@@ -4,6 +4,7 @@
 <head>
     <title>用户注册</title>
     <link rel="stylesheet" href="/statics/css/bootstrap.css">
+
 </head>
 <body>
 
